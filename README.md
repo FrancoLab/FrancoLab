@@ -1,18 +1,16 @@
 # Hi 👋, I'm @FrancoLab
 ### A passionate JavaScript Developer 🚀 having an experience with React, Vue, Express JS, and TypeScript
 
-- 👀 I love pushing the boundaries of web development and am constantly exploring new libraries and tools 🛠
-- 💬 Ask me about **JavaScript, React, Vue, Express JS, TypeScript**
-- 🌱 I’m currently learning **Qwik**, a new exciting front-end framework
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: **franco@defijn.io**
-- 🐦 @FrancoLabu
+I love pushing the boundaries of web development and am constantly exploring new libraries and tools
 
 
 ## 🛠 Technologies & Tools
 
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
-![](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge)
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
