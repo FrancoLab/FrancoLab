@@ -1,5 +1,5 @@
 # Hi 👋, I'm @FrancoLab
-### A passionate JavaScript Developer 🚀 having an experience with React, Vue, Express JS, and TypeScript
+### A passionate JavaScript developer 🚀 with experience in React, Vue, Express.js, and TypeScript.
 
 I love pushing the boundaries of web development and am constantly exploring new libraries and tools
 
